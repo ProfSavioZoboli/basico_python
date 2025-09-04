@@ -15,4 +15,3 @@ Este repositório tem como objetivo auxiliar os alunos e relembrar conteúdos vi
 - [X] Estrutura de decisão - MATCH
 - [X] Estrutura de repetição - FOR
 - [ ] Estrutura de repetição - WHILE
-- [ ] 
